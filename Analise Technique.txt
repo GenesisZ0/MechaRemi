@@ -1,0 +1,17 @@
+Boujour, voici mon analyse des deux méchaniques de jeux que choisit car considéré comme principale.
+
+1. le second jump aprés un attaque touché : 	
+	cette méchanique permet qu'aprés qu'une attaque soit efféctuer et qu'elle touche par exemple une lanterne un second
+	jump vous est octroyé, vous répété cette action autant de fois que vous le shouaité. Dans la reproduction vous 
+	devez le pilier avec la boule au dessus ( plus présisément la grosse boulle ) avec click gauche et cella vous donneras un jump.   
+
+2 .Le Wall climbing :
+	 
+	cela je l'ai fait un peu d'une autre manière, mais le principe c'est que quand le joueur se trouve à coté d'un mur
+ 	et qu'il saute vers celui la il s'accroche et peut monter verticalement on déscendre sur le meme axe.
+
+	Pour la démos que j'ai fait on s'accroche au mur simplement en étant a une courte distance de lui et en appuyant sur e .
+
+bonus :
+
+ j'ai refait la mécha que plus on appuis rapidement sur la touche de saut moins on saute haut et plus on appuie longtemps plus on saute haut 

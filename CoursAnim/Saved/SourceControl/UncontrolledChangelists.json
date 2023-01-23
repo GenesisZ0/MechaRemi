@@ -15,7 +15,12 @@
 				"D:/CoursAnim/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
 				"D:/CoursAnim/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/CoursAnim/Content/ThirdPerson/Input/Actions/IA_Climbing.uasset",
-				"D:/CoursAnim/Content/Niagara/NI_Burst.uasset"
+				"D:/CoursAnim/Content/Niagara/NI_Burst.uasset",
+				"C:/Users/os/Documents/GitHub/MechaRemi/CoursAnim/Content/Maps/MainMap.umap",
+				"C:/Users/os/Documents/GitHub/MechaRemi/CoursAnim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/os/Documents/GitHub/MechaRemi/CoursAnim/Content/ThirdPerson/Blueprints/collisionBoule.uasset",
+				"C:/Users/os/Documents/GitHub/MechaRemi/CoursAnim/Content/ThirdPerson/Blueprints/collisionWall.uasset",
+				"C:/Users/os/Documents/GitHub/MechaRemi/CoursAnim/Content/ThirdPerson/Blueprints/Widget.uasset"
 			]
 		}
 	]
