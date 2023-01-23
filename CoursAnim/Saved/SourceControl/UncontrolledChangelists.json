@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CoursAnim/Content/ModularRPGHeroesPolyart/Meshes/UE4_Mannequin_Skeleton.uasset",
+				"D:/CoursAnim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/CoursAnim/Content/ModularRPGHeroesPolyart/Meshes/Weapons/Sword01SM.uasset",
+				"D:/CoursAnim/Content/Maps/MainMap.umap",
+				"D:/CoursAnim/Content/ThirdPerson/Blueprints/CameraActor_Blueprint.uasset",
+				"D:/CoursAnim/Content/ModularRPGHeroesPolyart/Animations/BS_Movement.uasset",
+				"D:/CoursAnim/Content/ThirdPerson/Blueprints/Bp_TuchActor.uasset",
+				"D:/CoursAnim/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
+				"D:/CoursAnim/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/CoursAnim/Content/ThirdPerson/Input/Actions/IA_Climbing.uasset",
+				"D:/CoursAnim/Content/Niagara/NI_Burst.uasset"
+			]
+		}
+	]
+}
